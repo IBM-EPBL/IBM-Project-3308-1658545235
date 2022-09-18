@@ -3,7 +3,7 @@
   - Temperature Controlled Servo Motor.
 
 
-Components Used:
+## Components Used:
           ->PIR Sensor
           ->LCD Pannel
           ->Servo Motor
