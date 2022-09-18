@@ -1,0 +1,13 @@
+----------It is basic smart home model----------
+
+This smart home model invloves the usage of ultrasonic sensor which is used to calculate the
+distance of the interfering object within the ultrasonic sensor range.
+
+So,this ultrasonic sensor is interfaced with arduino UNO to monitor the object
+interfering into the stipulated range(in this case -->smart home ) and turns on the lights 
+automatically (which is shown by a simple light bulb)
+
+The ultrasonic sensor uses a simple mechanism where the object reflects the waves and through which
+the distance can be calculated by using simple basic formula(distance=speed * time).
+
+Here threshold value for ultrasonic sensor is fixed to be 200 cm.
