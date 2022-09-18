@@ -1,0 +1,11 @@
+It's a Smart home automation system which includes the following feature,
+
+Here the bulb glows if motion is detected and only if the brightness of the room is low
+
+If the brightness of the room is more, and even if motion is detected, the bulb does not glows
+
+I have coded to make the bulb glow for 10 seconds and after 10 seconds ,it switches off automatically
+
+I have used PIR sensor for motion detection 
+
+To check the brightness of the room, I have used Photoresistor
