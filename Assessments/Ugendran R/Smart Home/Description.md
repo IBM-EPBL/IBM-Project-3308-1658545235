@@ -1,4 +1,4 @@
-#IOT BASED SMART HOME:
+# IOT BASED SMART HOME:
   -IOT Based Lighting.
   -Temperature Controlled Servo Motor.
 
