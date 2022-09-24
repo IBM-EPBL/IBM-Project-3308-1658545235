@@ -1,0 +1,7 @@
+This is a python code based alert system
+
+randrange function is used to generate random temperature and humidity ranges
+
+The CheckCondition function is used to check threshold of temperature and humidity
+
+If threshold is reached, ALERT!!!!! is executed
