@@ -3,12 +3,12 @@ import time
 import simpleaudio as sa
 class getRandom:
     def getTemp(self):
-        return str(random.randint(1, 400))
+        return str(random.randint(1, 50))
 
     def getHumidity(self):
-        return str(random.randint(1, 50))
+        return str(random.randint(1, 100))
     def CheckwithThreshold(self,temp,humidity):
-        if (int(temp) > 300 or int(humidity) > 40):
+        if (int(temp) > 40 or int(humidity) > 60):
             for i in range(3):
                 time.sleep(1)
                 wave_obj = sa.WaveObject.from_wave_file("audio.wav")
