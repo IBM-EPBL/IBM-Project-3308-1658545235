@@ -1,6 +1,6 @@
 import random
 import time
-#import simpleaudio as sa
+import simpleaudio as sa
 class getRandom:
     def getTemp(self):
         return str(random.randint(1, 400))
