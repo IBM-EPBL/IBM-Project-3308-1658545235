@@ -1,1 +1,0 @@
-All the dynamic values are stored using cloud database
